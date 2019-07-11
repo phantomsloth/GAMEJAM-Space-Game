@@ -920,3 +920,457 @@ Script Stack (0 frames):
 [2019.07.11-04.02.25:000][956]LogSlate: Window 'Message Log' being destroyed
 [2019.07.11-04.02.25:012][956]LogSlate: Window 'Message Log' being destroyed
 [2019.07.11-04.02.39:535][578]LogSlate: Window 'Source Control Login' being destroyed
+[2019.07.11-04.14.50:463][998]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.11-04.14.54:342][147]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.07.11-04.15.01:484][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.11-04.15.05:585][733]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.11-04.15.05:666][733]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.15.05:666][733]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.11-04.15.05:667][733]PIE: New page: PIE session: FlyingExampleMap (Jul 10, 2019, 2:15:05 PM)
+[2019.07.11-04.15.05:667][733]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2019.07.11-04.15.05:703][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035615s)
+[2019.07.11-04.15.05:705][733]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2019.07.11-04.15.05:706][733]LogPlayLevel: PIE: World Init took: (0.002435s)
+[2019.07.11-04.15.05:706][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.038607s)
+[2019.07.11-04.15.05:783][733]LogUObjectHash: Compacting FUObjectHashTables data took   7.75ms
+[2019.07.11-04.15.05:812][733]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.11-04.15.05:826][733]LogInit: FAudioDevice initialized.
+[2019.07.11-04.15.05:862][733]LogLoad: Game class is 'FlyingGameMode_C'
+[2019.07.11-04.15.05:869][733]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2019.07.10-21.15.05
+[2019.07.11-04.15.05:869][733]LogWorld: Bringing up level for play took: 0.006162
+[2019.07.11-04.15.05:886][733]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap 0.804
+[2019.07.11-04.15.05:886][733]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.15.10:275][182]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.15.10:275][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.11-04.15.10:314][182]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.11-04.15.10:314][182]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.15.10:360][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.11-04.15.10:366][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.07.11-04.15.10:398][183]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.07.11-04.15.12:256][380]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.11-04.15.12:303][380]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.15.12:303][380]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.11-04.15.12:303][380]PIE: New page: PIE session: FlyingExampleMap (Jul 10, 2019, 2:15:12 PM)
+[2019.07.11-04.15.12:303][380]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2019.07.11-04.15.12:342][380]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038235s)
+[2019.07.11-04.15.12:343][380]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2019.07.11-04.15.12:343][380]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2019.07.11-04.15.12:343][380]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.039290s)
+[2019.07.11-04.15.12:393][380]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.07.11-04.15.12:421][380]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.11-04.15.12:433][380]LogInit: FAudioDevice initialized.
+[2019.07.11-04.15.12:465][380]LogLoad: Game class is 'FlyingGameMode_C'
+[2019.07.11-04.15.12:476][380]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2019.07.10-21.15.12
+[2019.07.11-04.15.12:477][380]LogWorld: Bringing up level for play took: 0.011003
+[2019.07.11-04.15.12:492][380]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap -0.59
+[2019.07.11-04.15.12:492][380]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.15.23:558][601]Cmd: LevelEditor.ToggleImmersive
+[2019.07.11-04.15.23:717][602]LogRenderer: Reallocating scene render targets to support 1416x900 Format 10 NumSamples 1 (Frame:1223).
+[2019.07.11-04.15.23:807][603]LogRenderer: Reallocating scene render targets to support 1920x1040 Format 10 NumSamples 1 (Frame:1225).
+[2019.07.11-04.15.23:813][603]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.11-04.15.50:427][469]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.15.50:427][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.11-04.15.50:497][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.11-04.15.50:498][469]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.15.50:554][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.11-04.15.50:562][469]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.07.11-04.15.50:620][470]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.07.11-04.15.51:543][559]Cmd: SELECT NONE
+[2019.07.11-04.15.55:115][908]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.11-04.15.55:164][908]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.15.55:164][908]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.11-04.15.55:164][908]PIE: New page: PIE session: FlyingExampleMap (Jul 10, 2019, 2:15:55 PM)
+[2019.07.11-04.15.55:165][908]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2019.07.11-04.15.55:192][908]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027281s)
+[2019.07.11-04.15.55:193][908]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2019.07.11-04.15.55:193][908]LogPlayLevel: PIE: World Init took: (0.001173s)
+[2019.07.11-04.15.55:193][908]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.028736s)
+[2019.07.11-04.15.55:244][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.07.11-04.15.55:282][908]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.11-04.15.55:298][908]LogInit: FAudioDevice initialized.
+[2019.07.11-04.15.55:298][908]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.11-04.15.55:331][908]LogLoad: Game class is 'FlyingGameMode_C'
+[2019.07.11-04.15.55:336][908]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2019.07.10-21.15.55
+[2019.07.11-04.15.55:336][908]LogWorld: Bringing up level for play took: 0.004998
+[2019.07.11-04.15.55:350][908]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap 0.269
+[2019.07.11-04.15.55:350][908]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.16.38:324][929]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.16.38:325][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.11-04.16.38:365][929]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.11-04.16.38:366][929]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.16.38:409][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.11-04.16.38:417][929]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.07.11-04.16.38:460][930]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.07.11-04.16.41:137][171]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.11-04.16.45:299][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.11-04.16.49:226][817]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FlyingBP/Blueprints/FlyingPawn.FlyingPawn
+[2019.07.11-04.16.51:318][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground)
+[2019.07.11-04.16.52:389][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.11-04.16.52:499][922]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.11-04.16.52:539][922]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.16.52:539][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.11-04.16.52:539][922]PIE: New page: PIE session: FlyingExampleMap (Jul 10, 2019, 2:16:52 PM)
+[2019.07.11-04.16.52:539][922]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2019.07.11-04.16.52:571][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031978s)
+[2019.07.11-04.16.52:572][922]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2019.07.11-04.16.52:573][922]LogPlayLevel: PIE: World Init took: (0.001478s)
+[2019.07.11-04.16.52:573][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.033848s)
+[2019.07.11-04.16.52:711][922]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.07.11-04.16.52:739][922]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.11-04.16.52:752][922]LogInit: FAudioDevice initialized.
+[2019.07.11-04.16.52:787][922]LogLoad: Game class is 'FlyingGameMode_C'
+[2019.07.11-04.16.52:793][922]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2019.07.10-21.16.52
+[2019.07.11-04.16.52:794][922]LogWorld: Bringing up level for play took: 0.005795
+[2019.07.11-04.16.52:809][922]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap -0.272
+[2019.07.11-04.16.52:810][922]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.17.03:137][492]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.17.03:137][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.11-04.17.03:186][492]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.11-04.17.03:186][492]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.17.03:235][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.11-04.17.03:242][492]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.07.11-04.17.03:349][493]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.07.11-04.17.07:547][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.11-04.17.18:842][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.11-04.18.19:499][331]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/GAMEJAM/Ship-truck.fbx)
+[2019.07.11-04.18.19:540][331]LogFbx: Loading FBX Scene from E:/GAMEJAM/Ship-truck.fbx
+[2019.07.11-04.18.19:551][331]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.11-04.18.20:679][331]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.07.11-04.18.21:605][331]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2019.07.11-04.18.21:687][331]LogFbx: Display: Triangulating static mesh Cube
+[2019.07.11-04.18.21:723][331]LogStaticMesh: Building static mesh Ship-truck...
+[2019.07.11-04.18.21:765][331]LogStaticMesh: Built static mesh [0.04s] /Game/Flying/Meshes/Ship-truck.Ship-truck
+[2019.07.11-04.18.21:786][331]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.07.11-04.18.23:797][420]LogSlate: Window 'Message Log' being destroyed
+[2019.07.11-04.18.23:809][420]LogSlate: Window 'Message Log' being destroyed
+[2019.07.11-04.18.35:527][ 14]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2019.07.11-04.18.44:491][550]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.11-04.19.07:387][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.11-04.19.20:687][989]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.11-04.19.40:786][172]LogSlate: Window 'FlyingPawn' being destroyed
+[2019.07.11-04.19.40:794][172]LogSlate: Window 'FlyingPawn' being destroyed
+[2019.07.11-04.19.42:639][281]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Flying/Meshes/Ship-truck.Ship-truck
+[2019.07.11-04.19.47:471][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Flying/Meshes/Ship-truck" FILE="E:/GAMEJAM/MyProject/Content/Flying/Meshes/Ship-truck.uasset" SILENT=true
+[2019.07.11-04.19.48:218][534]LogSavePackage: Moving 'E:/GAMEJAM/MyProject/Saved/Ship-truck92F2568F4CBBF63ED970509BFEDCC0EA.tmp' to 'E:/GAMEJAM/MyProject/Content/Flying/Meshes/Ship-truck.uasset'
+[2019.07.11-04.19.49:213][566]LogSlate: Window 'Ship-truck' being destroyed
+[2019.07.11-04.19.49:220][566]LogSlate: Window 'Ship-truck' being destroyed
+[2019.07.11-04.19.56:221][151]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FlyingBP/Blueprints/FlyingPawn.FlyingPawn
+[2019.07.11-04.20.40:605][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.11-04.21.00:258][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.11-04.21.00:841][420]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Flying/Meshes/Ship-truck.Ship-truck
+[2019.07.11-04.23.04:934][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.11-04.23.05:048][260]LogEditorFactories: Performing atomic reimport of [E:/GAMEJAM/Ship-truck.fbx]
+[2019.07.11-04.23.05:117][260]LogFbx: Loading FBX Scene from E:/GAMEJAM/Ship-truck.fbx
+[2019.07.11-04.23.05:124][260]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.11-04.23.05:129][260]LogFbx: Display: Triangulating static mesh Cube
+[2019.07.11-04.23.05:163][260]LogStaticMesh: Building static mesh Ship-truck...
+[2019.07.11-04.23.05:198][260]LogStaticMesh: Built static mesh [0.04s] /Game/Flying/Meshes/Ship-truck.Ship-truck
+[2019.07.11-04.23.05:223][260]LogEditorFactories: -- imported successfully
+[2019.07.11-04.23.05:228][260]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.07.11-04.23.07:085][387]LogSlate: Window 'Ship-truck' being destroyed
+[2019.07.11-04.23.07:101][387]LogSlate: Window 'Ship-truck' being destroyed
+[2019.07.11-04.23.10:072][651]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FlyingBP/Blueprints/FlyingPawn.FlyingPawn
+[2019.07.11-04.23.26:005][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.11-04.23.31:562][978]LogSlate: Window 'FlyingPawn' being destroyed
+[2019.07.11-04.23.31:569][978]LogSlate: Window 'FlyingPawn' being destroyed
+[2019.07.11-04.23.54:327][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.11-04.23.55:864][888]LogEditorFactories: Performing atomic reimport of [E:/GAMEJAM/Ship-truck.fbx]
+[2019.07.11-04.23.55:919][888]LogFbx: Loading FBX Scene from E:/GAMEJAM/Ship-truck.fbx
+[2019.07.11-04.23.55:926][888]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.11-04.23.55:927][888]LogFbx: Display: Triangulating static mesh Cube
+[2019.07.11-04.23.55:959][888]LogStaticMesh: Building static mesh Ship-truck...
+[2019.07.11-04.23.55:996][888]LogStaticMesh: Built static mesh [0.04s] /Game/Flying/Meshes/Ship-truck.Ship-truck
+[2019.07.11-04.23.56:016][888]LogEditorFactories: -- imported successfully
+[2019.07.11-04.23.56:022][888]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.07.11-04.23.58:921][194]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FlyingBP/Blueprints/FlyingPawn.FlyingPawn
+[2019.07.11-04.24.07:534][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.11-04.24.11:257][928]BlueprintLog: New page: Compile FlyingPawn
+[2019.07.11-04.24.11:695][928]LogUObjectHash: Compacting FUObjectHashTables data took   6.83ms
+[2019.07.11-04.24.12:341][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/Blueprints/FlyingPawn" FILE="E:/GAMEJAM/MyProject/Content/FlyingBP/Blueprints/FlyingPawn.uasset" SILENT=true
+[2019.07.11-04.24.17:741][953]LogSavePackage: Moving 'E:/GAMEJAM/MyProject/Saved/FlyingPawnF45B1C67481DE9D6BD5DD095D60D97E9.tmp' to 'E:/GAMEJAM/MyProject/Content/FlyingBP/Blueprints/FlyingPawn.uasset'
+[2019.07.11-04.24.49:409][646]Cmd: TRANSACTION UNDO
+[2019.07.11-04.24.49:409][646]LogEditorTransaction: Undo Edit Static Mesh
+[2019.07.11-04.24.52:424][846]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.11-04.24.58:897][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.11-04.24.59:008][184]BlueprintLog: New page: Compile FlyingPawn
+[2019.07.11-04.24.59:348][184]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2019.07.11-04.25.00:151][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/Blueprints/FlyingPawn" FILE="E:/GAMEJAM/MyProject/Content/FlyingBP/Blueprints/FlyingPawn.uasset" SILENT=true
+[2019.07.11-04.25.05:765][220]LogSavePackage: Moving 'E:/GAMEJAM/MyProject/Saved/FlyingPawnB576FF054E228A7DA85A2699D1ED41C4.tmp' to 'E:/GAMEJAM/MyProject/Content/FlyingBP/Blueprints/FlyingPawn.uasset'
+[2019.07.11-04.25.07:989][382]LogSlate: Window 'FlyingPawn' being destroyed
+[2019.07.11-04.25.07:994][382]LogSlate: Window 'FlyingPawn' being destroyed
+[2019.07.11-04.25.09:583][539]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.11-04.25.09:638][539]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.25.09:639][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.11-04.25.09:639][539]PIE: New page: PIE session: FlyingExampleMap (Jul 10, 2019, 2:25:09 PM)
+[2019.07.11-04.25.09:639][539]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2019.07.11-04.25.09:667][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028163s)
+[2019.07.11-04.25.09:668][539]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2019.07.11-04.25.09:668][539]LogPlayLevel: PIE: World Init took: (0.000777s)
+[2019.07.11-04.25.09:668][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.029165s)
+[2019.07.11-04.25.09:718][539]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.07.11-04.25.09:747][539]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.11-04.25.09:759][539]LogInit: FAudioDevice initialized.
+[2019.07.11-04.25.09:795][539]LogLoad: Game class is 'FlyingGameMode_C'
+[2019.07.11-04.25.09:800][539]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2019.07.10-21.25.09
+[2019.07.11-04.25.09:801][539]LogWorld: Bringing up level for play took: 0.004986
+[2019.07.11-04.25.09:814][539]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap 0.733
+[2019.07.11-04.25.09:814][539]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.25.26:242][477]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.25.26:242][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.11-04.25.26:279][477]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.11-04.25.26:279][477]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.25.26:327][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.11-04.25.26:334][477]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.07.11-04.25.26:363][478]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.07.11-04.25.29:932][839]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.11-04.25.30:018][848]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FlyingBP/Blueprints/FlyingPawn.FlyingPawn
+[2019.07.11-04.25.50:952][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.11-04.26.07:662][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.11-04.26.07:759][140]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.11-04.26.07:809][140]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.26.07:809][140]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.07.11-04.26.07:811][140]LogPlayLevel: [PlayLevel] Compiling FlyingPawn before play...
+[2019.07.11-04.26.08:130][140]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2019.07.11-04.26.08:130][140]LogPlayLevel: PlayLevel: Blueprint regeneration took 320 ms (1 blueprints)
+[2019.07.11-04.26.08:130][140]PIE: New page: PIE session: FlyingExampleMap (Jul 10, 2019, 2:26:08 PM)
+[2019.07.11-04.26.08:130][140]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2019.07.11-04.26.08:158][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027793s)
+[2019.07.11-04.26.08:159][140]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2019.07.11-04.26.08:159][140]LogPlayLevel: PIE: World Init took: (0.001087s)
+[2019.07.11-04.26.08:159][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.029136s)
+[2019.07.11-04.26.08:211][140]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.07.11-04.26.08:256][140]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.11-04.26.08:274][140]LogInit: FAudioDevice initialized.
+[2019.07.11-04.26.08:347][140]LogLoad: Game class is 'FlyingGameMode_C'
+[2019.07.11-04.26.08:354][140]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2019.07.10-21.26.08
+[2019.07.11-04.26.08:355][140]LogWorld: Bringing up level for play took: 0.006679
+[2019.07.11-04.26.08:368][140]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap 1.287
+[2019.07.11-04.26.08:369][140]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.26.09:680][225]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.26.09:680][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.11-04.26.09:719][225]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.11-04.26.09:719][225]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.26.09:770][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.11-04.26.09:776][225]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.07.11-04.26.09:804][226]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.07.11-04.26.21:148][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.11-04.26.21:283][ 14]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.11-04.26.21:320][ 14]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.26.21:320][ 14]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.07.11-04.26.21:322][ 14]LogPlayLevel: [PlayLevel] Compiling FlyingPawn before play...
+[2019.07.11-04.26.21:578][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.07.11-04.26.21:578][ 14]LogPlayLevel: PlayLevel: Blueprint regeneration took 256 ms (1 blueprints)
+[2019.07.11-04.26.21:578][ 14]PIE: New page: PIE session: FlyingExampleMap (Jul 10, 2019, 2:26:21 PM)
+[2019.07.11-04.26.21:578][ 14]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2019.07.11-04.26.21:603][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025035s)
+[2019.07.11-04.26.21:604][ 14]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2019.07.11-04.26.21:604][ 14]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2019.07.11-04.26.21:604][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.026038s)
+[2019.07.11-04.26.21:661][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2019.07.11-04.26.21:694][ 14]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.11-04.26.21:709][ 14]LogInit: FAudioDevice initialized.
+[2019.07.11-04.26.21:746][ 14]LogLoad: Game class is 'FlyingGameMode_C'
+[2019.07.11-04.26.21:752][ 14]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2019.07.10-21.26.21
+[2019.07.11-04.26.21:752][ 14]LogWorld: Bringing up level for play took: 0.005261
+[2019.07.11-04.26.21:765][ 14]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap 0.684
+[2019.07.11-04.26.21:766][ 14]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.26.23:797][151]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.26.23:797][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.11-04.26.23:834][151]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.11-04.26.23:834][151]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.26.23:888][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.11-04.26.23:895][151]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.07.11-04.26.23:930][152]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.07.11-04.26.25:784][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.11-04.26.25:902][280]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.11-04.26.25:946][280]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.26.25:946][280]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.07.11-04.26.25:948][280]LogPlayLevel: [PlayLevel] Compiling FlyingPawn before play...
+[2019.07.11-04.26.26:210][280]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2019.07.11-04.26.26:210][280]LogPlayLevel: PlayLevel: Blueprint regeneration took 263 ms (1 blueprints)
+[2019.07.11-04.26.26:210][280]PIE: New page: PIE session: FlyingExampleMap (Jul 10, 2019, 2:26:26 PM)
+[2019.07.11-04.26.26:210][280]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2019.07.11-04.26.26:234][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023908s)
+[2019.07.11-04.26.26:235][280]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2019.07.11-04.26.26:235][280]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2019.07.11-04.26.26:236][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.025100s)
+[2019.07.11-04.26.26:283][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.07.11-04.26.26:314][280]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.11-04.26.26:327][280]LogInit: FAudioDevice initialized.
+[2019.07.11-04.26.26:363][280]LogLoad: Game class is 'FlyingGameMode_C'
+[2019.07.11-04.26.26:371][280]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2019.07.10-21.26.26
+[2019.07.11-04.26.26:371][280]LogWorld: Bringing up level for play took: 0.006551
+[2019.07.11-04.26.26:385][280]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap 1.303
+[2019.07.11-04.26.26:385][280]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.26.52:522][225]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.26.52:523][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.11-04.26.52:561][225]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.11-04.26.52:561][225]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.26.52:614][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.11-04.26.52:621][225]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.07.11-04.26.52:656][226]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.07.11-04.26.54:405][341]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.11-04.27.03:797][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.11-04.27.19:316][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.11-04.27.49:207][ 76]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.11-04.27.49:263][ 76]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.27.49:263][ 76]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.07.11-04.27.49:265][ 76]LogPlayLevel: [PlayLevel] Compiling FlyingPawn before play...
+[2019.07.11-04.27.49:537][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.07.11-04.27.49:537][ 76]LogPlayLevel: PlayLevel: Blueprint regeneration took 273 ms (1 blueprints)
+[2019.07.11-04.27.49:537][ 76]PIE: New page: PIE session: FlyingExampleMap (Jul 10, 2019, 2:27:49 PM)
+[2019.07.11-04.27.49:537][ 76]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2019.07.11-04.27.49:562][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024766s)
+[2019.07.11-04.27.49:562][ 76]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2019.07.11-04.27.49:562][ 76]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2019.07.11-04.27.49:563][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.025710s)
+[2019.07.11-04.27.49:608][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.07.11-04.27.49:638][ 76]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.11-04.27.49:653][ 76]LogInit: FAudioDevice initialized.
+[2019.07.11-04.27.49:688][ 76]LogLoad: Game class is 'FlyingGameMode_C'
+[2019.07.11-04.27.49:696][ 76]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2019.07.10-21.27.49
+[2019.07.11-04.27.49:697][ 76]LogWorld: Bringing up level for play took: 0.007530
+[2019.07.11-04.27.49:711][ 76]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap 0.63
+[2019.07.11-04.27.49:712][ 76]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.28.00:139][825]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.28.00:139][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.11-04.28.00:170][825]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.11-04.28.00:170][825]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.28.00:221][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.11-04.28.00:228][825]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.07.11-04.28.00:266][826]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.07.11-04.28.02:251][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.11-04.28.07:433][298]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.11-04.28.07:487][298]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.28.07:487][298]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.07.11-04.28.07:488][298]LogPlayLevel: [PlayLevel] Compiling FlyingPawn before play...
+[2019.07.11-04.28.07:768][298]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2019.07.11-04.28.07:769][298]LogPlayLevel: PlayLevel: Blueprint regeneration took 281 ms (1 blueprints)
+[2019.07.11-04.28.07:769][298]PIE: New page: PIE session: FlyingExampleMap (Jul 10, 2019, 2:28:07 PM)
+[2019.07.11-04.28.07:769][298]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2019.07.11-04.28.07:796][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027511s)
+[2019.07.11-04.28.07:797][298]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2019.07.11-04.28.07:798][298]LogPlayLevel: PIE: World Init took: (0.001031s)
+[2019.07.11-04.28.07:798][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.028851s)
+[2019.07.11-04.28.07:847][298]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.07.11-04.28.07:883][298]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.11-04.28.07:899][298]LogInit: FAudioDevice initialized.
+[2019.07.11-04.28.07:933][298]LogLoad: Game class is 'FlyingGameMode_C'
+[2019.07.11-04.28.07:940][298]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2019.07.10-21.28.07
+[2019.07.11-04.28.07:940][298]LogWorld: Bringing up level for play took: 0.006209
+[2019.07.11-04.28.07:954][298]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap 0.873
+[2019.07.11-04.28.07:955][298]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.28.41:277][750]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.28.41:277][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.11-04.28.41:307][750]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.11-04.28.41:308][750]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.28.41:356][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.11-04.28.41:363][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.07.11-04.28.41:400][751]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.07.11-04.28.55:032][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.11-04.29.09:507][666]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.11-04.29.09:557][666]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.29.09:557][666]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.07.11-04.29.09:559][666]LogPlayLevel: [PlayLevel] Compiling FlyingPawn before play...
+[2019.07.11-04.29.09:806][666]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2019.07.11-04.29.09:806][666]LogPlayLevel: PlayLevel: Blueprint regeneration took 249 ms (1 blueprints)
+[2019.07.11-04.29.09:806][666]PIE: New page: PIE session: FlyingExampleMap (Jul 10, 2019, 2:29:09 PM)
+[2019.07.11-04.29.09:807][666]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2019.07.11-04.29.09:831][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024756s)
+[2019.07.11-04.29.09:832][666]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2019.07.11-04.29.09:832][666]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2019.07.11-04.29.09:832][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.025680s)
+[2019.07.11-04.29.09:873][666]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2019.07.11-04.29.09:914][666]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.11-04.29.09:930][666]LogInit: FAudioDevice initialized.
+[2019.07.11-04.29.09:968][666]LogLoad: Game class is 'FlyingGameMode_C'
+[2019.07.11-04.29.09:974][666]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2019.07.10-21.29.09
+[2019.07.11-04.29.09:974][666]LogWorld: Bringing up level for play took: 0.005723
+[2019.07.11-04.29.09:988][666]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap 0.907
+[2019.07.11-04.29.09:989][666]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.29.32:916][381]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.29.32:916][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.11-04.29.32:951][381]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.11-04.29.32:951][381]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.29.33:000][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.11-04.29.33:009][381]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.07.11-04.29.33:047][382]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.07.11-04.29.35:406][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.11-04.29.44:649][144]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.11-04.29.44:701][144]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.29.44:702][144]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.07.11-04.29.44:703][144]LogPlayLevel: [PlayLevel] Compiling FlyingPawn before play...
+[2019.07.11-04.29.44:959][144]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2019.07.11-04.29.44:959][144]LogPlayLevel: PlayLevel: Blueprint regeneration took 257 ms (1 blueprints)
+[2019.07.11-04.29.44:959][144]PIE: New page: PIE session: FlyingExampleMap (Jul 10, 2019, 2:29:44 PM)
+[2019.07.11-04.29.44:960][144]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2019.07.11-04.29.44:985][144]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025040s)
+[2019.07.11-04.29.44:985][144]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2019.07.11-04.29.44:985][144]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2019.07.11-04.29.44:985][144]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.025924s)
+[2019.07.11-04.29.45:036][144]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.07.11-04.29.45:071][144]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.11-04.29.45:084][144]LogInit: FAudioDevice initialized.
+[2019.07.11-04.29.45:114][144]LogLoad: Game class is 'FlyingGameMode_C'
+[2019.07.11-04.29.45:120][144]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2019.07.10-21.29.45
+[2019.07.11-04.29.45:120][144]LogWorld: Bringing up level for play took: 0.005560
+[2019.07.11-04.29.45:134][144]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap 0.053
+[2019.07.11-04.29.45:134][144]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.29.59:264][195]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.29.59:264][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.11-04.29.59:298][195]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.11-04.29.59:298][195]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.29.59:346][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.11-04.29.59:352][195]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.07.11-04.29.59:387][196]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.07.11-04.30.01:978][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.11-04.30.09:697][877]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.11-04.30.09:772][877]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.30.09:773][877]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.07.11-04.30.09:775][877]LogPlayLevel: [PlayLevel] Compiling FlyingPawn before play...
+[2019.07.11-04.30.10:112][877]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2019.07.11-04.30.10:112][877]LogPlayLevel: PlayLevel: Blueprint regeneration took 340 ms (1 blueprints)
+[2019.07.11-04.30.10:113][877]PIE: New page: PIE session: FlyingExampleMap (Jul 10, 2019, 2:30:10 PM)
+[2019.07.11-04.30.10:113][877]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2019.07.11-04.30.10:134][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021305s)
+[2019.07.11-04.30.10:135][877]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2019.07.11-04.30.10:136][877]LogPlayLevel: PIE: World Init took: (0.001263s)
+[2019.07.11-04.30.10:136][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.022847s)
+[2019.07.11-04.30.10:184][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.07.11-04.30.10:217][877]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.11-04.30.10:233][877]LogInit: FAudioDevice initialized.
+[2019.07.11-04.30.10:284][877]LogLoad: Game class is 'FlyingGameMode_C'
+[2019.07.11-04.30.10:290][877]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2019.07.10-21.30.10
+[2019.07.11-04.30.10:290][877]LogWorld: Bringing up level for play took: 0.005367
+[2019.07.11-04.30.10:304][877]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap 1.223
+[2019.07.11-04.30.10:304][877]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.30.57:246][378]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.30.57:246][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.11-04.30.57:280][378]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.11-04.30.57:280][378]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.07.11-04.30.57:333][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.11-04.30.57:340][378]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.07.11-04.30.57:375][379]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.07.11-04.31.03:187][711]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.11-04.31.04:773][805]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.11-04.31.05:199][805]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.11-04.31.05:213][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/Maps/FlyingExampleMap" FILE="E:/GAMEJAM/MyProject/Content/FlyingBP/Maps/FlyingExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.11-04.31.05:281][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.07.11-04.31.26:223][805]LogSavePackage: Moving 'E:/GAMEJAM/MyProject/Saved/FlyingExampleMapE87BCACE417EA3F376DB86A3F17561F7.tmp' to 'E:/GAMEJAM/MyProject/Content/FlyingBP/Maps/FlyingExampleMap.umap'
+[2019.07.11-04.31.26:487][805]LogFileHelpers: Saving map 'FlyingExampleMap' took 21.277
+[2019.07.11-04.31.26:534][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/Blueprints/FlyingPawn" FILE="E:/GAMEJAM/MyProject/Content/FlyingBP/Blueprints/FlyingPawn.uasset" SILENT=true
+[2019.07.11-04.31.32:470][805]LogSavePackage: Moving 'E:/GAMEJAM/MyProject/Saved/FlyingPawn11A30CC34E83289F0C2A36A1F3A24570.tmp' to 'E:/GAMEJAM/MyProject/Content/FlyingBP/Blueprints/FlyingPawn.uasset'
+[2019.07.11-04.31.32:583][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Flying/Meshes/Ship-truck" FILE="E:/GAMEJAM/MyProject/Content/Flying/Meshes/Ship-truck.uasset" SILENT=true
+[2019.07.11-04.31.33:285][805]LogSavePackage: Moving 'E:/GAMEJAM/MyProject/Saved/Ship-truck305C38604E2311E9356081A3B3C4597F.tmp' to 'E:/GAMEJAM/MyProject/Content/Flying/Meshes/Ship-truck.uasset'
+[2019.07.11-04.31.33:375][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Flying/Meshes/Material" FILE="E:/GAMEJAM/MyProject/Content/Flying/Meshes/Material.uasset" SILENT=true
+[2019.07.11-04.31.33:466][805]LogSavePackage: Moving 'E:/GAMEJAM/MyProject/Saved/Material1BD0DA30477CAC9C186CB182997A14FA.tmp' to 'E:/GAMEJAM/MyProject/Content/Flying/Meshes/Material.uasset'
+[2019.07.11-04.31.43:191][320]SourceControl: fatal: C:/UE_4.22/Engine/Content: 'C:/UE_4.22/Engine/Content' is outside repository
+[2019.07.11-04.31.49:147][320]LogSlate: Window 'Submit Files' being destroyed
+[2019.07.11-04.31.53:191][320]LogSourceControl: commit successful: [master b13f0c7] ship
+[2019.07.11-04.31.53:814][320]SourceControl: [master b13f0c7] ship
+[2019.07.11-04.31.53:814][320]SourceControl:  4 files changed, 0 insertions(+), 0 deletions(-)
+[2019.07.11-04.31.53:814][320]SourceControl:  create mode 100644 MyProject/Content/Flying/Meshes/Material.uasset
+[2019.07.11-04.31.53:814][320]SourceControl:  create mode 100644 MyProject/Content/Flying/Meshes/Ship-truck.uasset
+[2019.07.11-04.31.53:814][320]SourceControl:  rewrite MyProject/Content/FlyingBP/Blueprints/FlyingPawn.uasset (91%)
+[2019.07.11-04.31.53:824][320]SourceControl: Commited [master b13f0c7] ship.
+[2019.07.11-04.32.07:681][767]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (33.361 sec). This should never happen. Something is wrong with the timer delegate!
