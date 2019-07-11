@@ -914,3 +914,9 @@ Script Stack (0 frames):
 [2019.07.11-03.42.46:610][744]SourceControl:  4 files changed, 3 insertions(+), 1 deletion(-)
 [2019.07.11-03.42.46:610][744]SourceControl:  create mode 100644 MyProject/Content/Flying/Meshes/Small_Astroid.uasset
 [2019.07.11-03.42.46:620][744]SourceControl: Commited [master bc6f12f] updated astroids.
+[2019.07.11-04.02.14:853][922]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.11-04.02.19:327][373]SourceControl: fatal: C:/UE_4.22/Engine/Content: 'C:/UE_4.22/Engine/Content' is outside repository
+[2019.07.11-04.02.19:750][373]EditorErrors: Warning: No assets to check in!
+[2019.07.11-04.02.25:000][956]LogSlate: Window 'Message Log' being destroyed
+[2019.07.11-04.02.25:012][956]LogSlate: Window 'Message Log' being destroyed
+[2019.07.11-04.02.39:535][578]LogSlate: Window 'Source Control Login' being destroyed
